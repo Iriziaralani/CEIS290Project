@@ -10,6 +10,7 @@ h1 {
     font-weight: bold;
     margin: 50px auto 0 auto;
     font-family: 'Cookie', cursive;
+    text-align: center;
 }
 
 h2 {
@@ -17,4 +18,20 @@ h2 {
     font-weight: bold;
     padding-bottom: 10px;
     font-family: 'Quicksand', serif;
+    text-align: center;
+}
+h3 {
+    margin: 50px auto 0 auto;
+    text-align: center;
+}
+p{
+    margin: 50px auto 0 auto;
+    line-height: 2;
+    text-align: center;
+}
+.top-container {
+    text-align: center;
+    background-color: #B983FF;
+    position: relative;
+    padding-top: 100px;
 }
