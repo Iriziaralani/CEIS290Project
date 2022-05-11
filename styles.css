@@ -33,10 +33,12 @@ p {
     background-color: #aefeff;
     position: relative;
     padding-top: 100px;
+    margin: 2px 0px 2px 0px;
 }
 .middle-container {
     margin: 2px 0px 2px 0px;
     text-align: center;
+    background-color: #b3cecf
 }
 .bottom-container {
     background-color: #aefeff;
