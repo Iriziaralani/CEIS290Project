@@ -35,3 +35,21 @@ p{
     position: relative;
     padding-top: 100px;
 }
+.middle-container {
+    margin: 100px 0px 100px 0px;
+    text-align: center;
+}
+.bottom-container {
+    background-color: #B983FF;
+    padding: 50px 0 20px 20px;
+}
+.skills {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+}
+.skill-list {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+}
